@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopupCloseIssue", "PopupCloseIssue.csproj", "{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297C2DDA-4640-463E-B7CA-3D477D2BBA5D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501A9ED4-9F4D-4BC1-AAA8-54DAA79F3C4B}
+	EndGlobalSection
+EndGlobal
